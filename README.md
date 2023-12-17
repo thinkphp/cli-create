@@ -6,8 +6,7 @@ $ ./cli-create main
 $ main.cpp created
 $ cat main.cpp
 
-
-#include <iostream>
+#include <bits/stdc++.h>
 #include <chrono>
 
 #define TIMER_START auto TIME_START = std::chrono::high_resolution_clock::now()
