@@ -11,7 +11,7 @@ import (
 
 //will add more stuff we needed
 var content = `
-#include <iostream>
+#include <bits/stdc++.h>
 #include <chrono>
 
 #define TIMER_START auto TIME_START = std::chrono::high_resolution_clock::now()
